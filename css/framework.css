@@ -1,0 +1,177 @@
+/*start box*/
+.d-flex{
+    display: flex;
+}
+.bg-white{
+    background-color: white;
+}
+.p-20{
+    padding: 20px;
+}
+.p-relative{
+    position: relative;
+}
+.p-10{
+    padding: 10px;
+}
+.m-20{
+    margin: 20px;
+}
+.text-c{
+    text-align: center;
+}
+.w-fit{
+    width: fit-content;
+}
+.c-white{
+    color: white;
+}
+.bg-blue{
+    background-color: #00ACC1;
+}
+.fs-14{
+    font-size: 14px;
+}
+.mt-0{
+    margin-top: 0;
+}
+.c-black{
+    color: black;
+}
+.rad-6{
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}
+.align-center{
+    align-items: center;
+}
+.page-h1{
+    position: relative;
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 40px;
+
+}
+.page-h1::before{
+    content: "";
+    width: 120px;
+    height: 2px;
+    position: absolute;
+    background-color: white;
+    bottom: -5px;
+    left: 0;
+}
+.page-h1::after{
+    content: "";
+    width: 40px;
+    height: 2px;
+    position: absolute;
+    background-color: #514c4c;
+    bottom: -5px;
+    left: 0;
+}
+.intro{
+    display: flex;
+    justify-content: space-between;
+    background-color: #eee;
+}
+.m-0{
+    margin: 0;
+}
+.c-gray{
+    color: #888;
+}
+.mt-5{
+    margin-top: 5px;
+}
+.mt-20{
+    margin-top: 20px;
+}
+.mt-10{
+    margin-top: 10px;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
+.d-block{
+    display: block;
+}
+.t-w{
+    text-wrap: nowrap;
+}
+.bg-eee{
+    background-color: #eee;
+}
+.b-none{
+    border: none;
+}
+.f-w{
+    width: 100%;
+}
+.wg-icon{
+    width: 80px;
+    height: 80px;
+}
+.mb-5px{
+    margin-bottom: 15px;
+}
+.ml-15{
+    margin-left: 15px;
+}
+.prog-o{
+    background-color: #0075ff;
+    width: 80%;
+    height: 4px;
+    display: block;
+}
+.prog-t{
+    background-color: #f59e0b;
+    width: 55%;
+    height: 4px;
+    display: block;
+    
+}
+.wid-40{
+    width: 40px;
+}
+.prog-th{
+    background-color: #22c55e;
+    width: 75%;
+    height: 4px;
+    display: block;
+}
+.fs-25{
+    font-size: 22px;
+}
+.fn-700{
+    font-weight: 700;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
+.c-orange{
+    color: #f59e0b;
+}
+.c-blue{
+    color:  #0075ff;
+}
+.c-green{
+    color: #22c55e;
+}
+.c-red{
+    color: #f44336;
+}
+.w-100{
+    width: 100px;
+}
+
+.p-t-style{
+    margin-left: -9px;
+}
+.p-delet{
+    text-decoration: line-through;
+}
